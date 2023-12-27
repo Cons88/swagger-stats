@@ -102,7 +102,7 @@
     "qs": "^6.11.2",
     "send": "^0.18.0",
     "uuid": "^9.0.0",
-    "axios": "^1.4.0"
+    "axios": "^1.6.3"
   },
   "peerDependencies": {
     "prom-client": ">= 10 <= 14"
